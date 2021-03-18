@@ -119,4 +119,4 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-GRAPHENE = {"SCHEMA": "cookbook.schema.schema"}
+GRAPHENE = {'SCHEMA': 'cookbook.schema.schema'}
